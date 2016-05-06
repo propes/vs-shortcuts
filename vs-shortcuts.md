@@ -1,6 +1,6 @@
 # vs-shortcuts
 
-##Navigation
+## Navigation
 
 **F12** - go to definition
 **CTRL + -** - navigate backwards
